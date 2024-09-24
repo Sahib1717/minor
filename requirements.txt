@@ -1,0 +1,8 @@
+transformers
+pandas
+numpy
+nltk
+vaderSentiment
+requests
+matplotlib
+seaborn
